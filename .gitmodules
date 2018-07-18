@@ -1,3 +1,12 @@
 [submodule "themes/hueman"]
 	path = themes/hueman
 	url = https://github.com/zirho/hexo-theme-hueman
+[submodule "themes/hexoThemeKacper"]
+	path = themes/hexoThemeKacper
+	url = https://github.com/jaywcjlove/hexoThemeKacper
+[submodule "themes/bulxo"]
+	path = themes/bulxo
+	url = https://github.com/polebug/hexo-theme-bulxo
+[submodule "themes/minos"]
+	path = themes/minos
+	url = https://github.com/ppoffice/hexo-theme-minos
